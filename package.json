@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/yogeshwaran01/github-stats-terminal-style#readme",
   "dependencies": {
-    "@octokit/rest": "^18.10.0",
+    "@octokit/rest": "^21.0.2",
     "nunjucks": "^3.2.3"
   }
 }
